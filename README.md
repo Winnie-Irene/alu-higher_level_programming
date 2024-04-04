@@ -1,0 +1,2 @@
+# alu-higher_level_programming
+Alu-higher_level_programming is my dedicated GitHub repository showcasing all the work I have accomplished during this module at The African Leadership Univeristy. Focusing primarily on Python programming and database management, this repository serves as a comprehensive portfolio of my assignments, projects, and tasks completed throughout the course. From mastering Python syntax and concepts to effectively working with databases, this repository encapsulates my journey in higher-level programming.
